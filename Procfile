@@ -1,0 +1,1 @@
+web: gunicorn Sign_up.wsgi:application
